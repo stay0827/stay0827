@@ -58,5 +58,6 @@
 ---
 ## ⚡ Contact methods
 
-- DISCORD : @stay0827
+- Discord : @stay0827
 - E-Mail : ksh080827@naver.com
+- Hotline : discord or [KakaoTalk](https://open.kakao.com/o/sZmfC0vg)
