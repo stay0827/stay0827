@@ -8,7 +8,7 @@
 ### **SILICON SERVICE™ 기술팀장**  
  `Discord.js` 기반의 Discord client 제작 / `Lua`, `Typescript`, `NUI` 기반의 FiveM system 제작
 
-### **비공개 FiveM 서버 개발팀장**  
+### **YEONGSAN FIVEM 개발팀장**  
  `Lua`, `Javascript`, NUI 기반의 FiveM system 제작  
 
 ### **한국맵 제작소 헤드어드민**
