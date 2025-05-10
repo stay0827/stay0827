@@ -36,9 +36,11 @@
 - `TYPESCRIPT` `MONGODB` `DISCORD.JS`
 - 방대한 매니지먼트 기능과 리얼타임 디버깅 시스템 적용
 - SILICON CLIENT 3.0 2025년 06월 01일 정식 출시
+- Contact: silicon.service.kr@gmail.com
 ### [SILICON FRAMEWORK](https://www.notion.so/WELCOME-TO-SILICON-SERVICE-KR-1af84f52fc92809b9cdaeac0c31b1d82)
 - `DISCORD.JS` 기반의 봇 연동을 통한 인게임 매니지먼트 / 방대한 확장성 제공 시스템
 - `FIVEM` `LUA` `TYPESCRIPT` `MONGODB` `DISCORD.JS` `HTML5` `CSS`
+- Contact: silicon.service.kr@gmail.com
 ### [SAESSAK MARKET](https://saessak.shop)
 - `NEXT.JS` 기반의 신/중고 학용품 거래 사이트
 - `NEXT.JS` `REACT` `TYPESCRIPT` `NGINX` `FIGMA` `SOCKET.IO` `MONGODB` 
@@ -51,3 +53,9 @@
 
 ### [한국맵 제작소](https://discord.gg/2HmVhahzBw)
 - `BLENDER` `ZMODELER` `LUA` `FIVEM`
+
+---
+## ⚡ Contact methods
+
+- DISCORD : @stay0827
+- E-Mail : ksh080827@naver.com
