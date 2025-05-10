@@ -22,7 +22,7 @@
 ### **Markup Language**
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 ### **Web Framework**
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
 ### **Database**
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 ### **Tools**
@@ -30,3 +30,24 @@
 
 ---
 ## ⭐ Projects
+
+### [SILICON CLIENT](https://www.notion.so/WELCOME-TO-SILICON-SERVICE-KR-1af84f52fc92809b9cdaeac0c31b1d82)
+- `DISCORD.JS` 기반의 길드 매니지먼트 / 프로덕트 매니지먼트 시스템
+- `TYPESCRIPT` `MONGODB` `DISCORD.JS`
+- 방대한 매니지먼트 기능과 리얼타임 디버깅 시스템 적용
+- SILICON CLIENT 3.0 2025년 06월 01일 정식 출시
+### [SILICON FRAMEWORK](https://www.notion.so/WELCOME-TO-SILICON-SERVICE-KR-1af84f52fc92809b9cdaeac0c31b1d82)
+- `DISCORD.JS` 기반의 봇 연동을 통한 인게임 매니지먼트 / 방대한 확장성 제공 시스템
+- `FIVEM` `LUA` `TYPESCRIPT` `MONGODB` `DISCORD.JS` `HTML5` `CSS`
+### [SAESSAK MARKET](https://saessak.shop)
+- `NEXT.JS` 기반의 신/중고 학용품 거래 사이트
+- `NEXT.JS` `REACT` `TYPESCRIPT` `NGINX` `FIGMA` `SOCKET.IO` `MONGODB` 
+
+### [CLASS HELPER (⛔)](https://classinfo.xyz)
+- `EXPRESS` `MONGODB` `HTML5` `CSS`
+
+### [YEONGSAN LIB](https://discord.gg/8xztagrjUC)
+- `FIVEM` `LUA` `TYPESCRIPT` `JAVASCRIPT` `HTML5` `CSS` `MONGODB`
+
+### [한국맵 제작소](https://discord.gg/2HmVhahzBw)
+- `BLENDER` `ZMODELER` `LUA` `FIVEM`
