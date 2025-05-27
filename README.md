@@ -1,7 +1,7 @@
 # 👋 안녕하세요, STAY0827입니다.
 
 > 11살, 엔트리로 시작된 제 프로그래밍 인생은 7년간 많은 사람을 만나며 다양한 스택과 경험을 쌓았습니다.  
-> 현재는 풀스택을 향한 무한한 도전정신과 끈기를 가지고  
+> 현재는 육각형 개발자를 목적으로 무한한 도전정신과 끈기를 가지고  
 > **FiveM 풀스택** / **Next.JS 기반 풀스택** / **Python** / **Typescript** 개발자로 활동하고 있습니다.
 
 ---
@@ -9,10 +9,10 @@
 ### **SILICON SERVICE™ 기술팀장**  
  `Discord.js` 기반의 Discord client 제작 / `Lua`, `Typescript`, `NUI` 기반의 FiveM system 제작
 
-### **YEONGSAN FIVEM 개발팀장**  
+### **YEONGSAN FIVEM 개발계장**  
  `Lua`, `Javascript`, NUI 기반의 FiveM system 제작  
 
-### **한국맵 제작소 헤드어드민**
+### **한국맵 제작소 CTO**
  `Zmodeler` 및 `Blender`를 이용한 GTA5 모델 제작
 
  ### **코딩동아리 부장**
