@@ -6,14 +6,15 @@
 
 ---
 ## 📌 Activities
-### **SILICON SERVICE™ 기술팀장**  
- `Discord.js` 기반의 Discord client 제작 / `Lua`, `Typescript`, `NUI` 기반의 FiveM system 제작
+### **SILICON KR 기술팀장**  
+ `DISCORD.JS`기반의 디스코드 클라이언트 제작 / 다양한 웹프레임워크를 이용한 풀스택 웹서비스 제작 / `LUA`, `JS`, `HTML`등을 이용한 FIVEM 시스템 제작
 
-### **YEONGSAN FIVEM 개발계장**  
- `Lua`, `Javascript`, NUI 기반의 FiveM system 제작  
+### **YEONGSAN FIVEM 개발계장(⛔)**  
+`LUA`, `JS`, `HTML`등을 이용한 FIVEM 시스템 제작
+`BLENDER`, `ZMODELER3`를 이용한 FIVEM 모델 제작
 
-### **한국맵 제작소 CTO**
- `Zmodeler` 및 `Blender`를 이용한 GTA5 모델 제작
+### **한국맵 제작소 최고기술자**
+`BLENDER`, `ZMODELER3`를 이용한 GTA5 / FIVEM 모델(맵, 차량, 애니메이션, 의류 등) 제작
 
  ### **코딩동아리 부장**
 다양한 웹 프레임워크와 넘쳐나는 새로운 아이디어를 통한 웹사이트 제작
