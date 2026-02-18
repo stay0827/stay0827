@@ -38,10 +38,9 @@
 ## ⭐ Projects
 
 ### [SILICON CLIENT](https://www.notion.so/WELCOME-TO-SILICON-SERVICE-KR-1af84f52fc92809b9cdaeac0c31b1d82)
-- `DISCORD.JS` 기반의 길드 매니지먼트 / 프로덕트 매니지먼트 시스템
-- `TYPESCRIPT` `MONGODB` `DISCORD.JS`
+- `DISCORD.JS` 기반의 길드 매니지먼트 / 비즈니스 서포트 서비스
+- `TYPESCRIPT` `PRISMA` `DISCORD.JS`
 - 방대한 매니지먼트 기능과 리얼타임 디버깅 시스템 적용
-- SILICON CLIENT 3.0 2025년 06월 01일 정식 출시
 - Contact: silicon.service.kr@gmail.com
 ### [SILICON FRAMEWORK](https://www.notion.so/WELCOME-TO-SILICON-SERVICE-KR-1af84f52fc92809b9cdaeac0c31b1d82)
 - `DISCORD.JS` 기반의 봇 연동을 통한 인게임 매니지먼트 / 방대한 확장성 제공 시스템
