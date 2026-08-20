@@ -2,23 +2,26 @@
 
 > 11살, 엔트리로 시작된 제 프로그래밍 인생은 8년간 많은 사람을 만나며 다양한 스택과 경험을 쌓았습니다.  
 > 현재는 육각형 개발자를 목표로 무한한 도전정신과 끈기를 가지고  
-> **FiveM 풀스택** / **Next.JS 기반 풀스택** / **Python** / **Typescript** 개발자로 활동하고 있습니다.
+> **FiveM(Lua, TS)** · **React** · **Next.js** · **Python** · **Typescript** ·**Lua** 풀스택 개발자로 활동하고 있습니다.
 
 ---
 ## 📌 Activities
-### **SILICON KR 기술팀장** (~)
- `DISCORD.JS`기반의 디스코드 클라이언트 제작 / 다양한 웹프레임워크를 이용한 풀스택 웹서비스 제작 / `LUA`, `JS`, `HTML`등을 이용한 FIVEM 시스템 제작
+### **SILICON KR TECHNICAL TEAM LEADER** (~)
+· `discord.js`기반 디스코드 클라이언트 운영
+· `overextended`기반 파이브엠 시스템 개발
+· `Typescript`를 기반한 풀스택 웹개발
+· `Figma` 및 `Adobe`를 이용한 웹디자인 및 산업 디자인
 
 ### **NAMHAE FIVEM 개발팀장** (~)
-`LUA`, `JS`, `HTML`등을 이용한 FIVEM 시스템 제작
-`BLENDER`, `ZMODELER3`를 이용한 FIVEM 모델 제작
-`PHOTOSHOP`등을 이용한 PBR 머테리얼 제작
+· `Lua`, `TS`, `Html5`기반 파이브엠 시스템 개발 (풀스택)
+· `Blender`, `Z-Modeler 3`를 이용한 3D 에셋 제작 및 쉐이딩 디자인
+· `Photoshop`등 디자인 툴을 이용한 PBR 머테리얼·텍스쳐 제작
 
 ### **한국맵 제작소 수석기술고문** (~)
-`BLENDER`, `ZMODELER3`를 이용한 GTA5 / FIVEM 모델(맵, 차량, 애니메이션, 의류 등) 제작 강의
+· `Blender`, `Z-Modeler 3`를 이용한 GTA5·FIVEM 모드(차량, 맵, 의상, 무기, 애니메이션 등) 제작 및 제작 강의
 
- ### **코딩동아리 부장** (~2025)
-다양한 웹 프레임워크와 넘쳐나는 새로운 아이디어를 통한 웹사이트 제작
+ ### **고등학교 코딩동아리 부장** (~2025)
+· 다양한 웹 프레임워크와 넘쳐나는 새로운 아이디어를 통한 웹사이트 제작
 
 ---
 ## 🔧 Development stacks
